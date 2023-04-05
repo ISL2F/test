@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.e8391e9f.css",
+    "main.js": "/test/static/js/main.666f6aa3.js",
+    "static/media/hand.png": "/test/static/media/hand.9f7b0e1dd9e2d780615d.png",
+    "static/media/promote.svg": "/test/static/media/promote.5230029f4e637c534c143c4d95cf421f.svg",
+    "static/media/income.svg": "/test/static/media/income.25d824b57e5c5a753432296807e7285d.svg",
+    "static/media/product.svg": "/test/static/media/product.1ca4fd5b650bd0a4104c1a2789ca1171.svg",
+    "static/media/help.svg": "/test/static/media/help.5d23912a887f9edc9d9f8d957ec960e6.svg",
+    "static/media/logo.svg": "/test/static/media/logo.511a78362f620a8e607f6a023dc9ea44.svg",
+    "static/media/customers.svg": "/test/static/media/customers.27617add0f452c671fec310dc74fcb18.svg",
+    "static/media/dashboard.svg": "/test/static/media/dashboard.3f57cac2b6c53723bf6b74070b05662e.svg",
+    "index.html": "/test/index.html",
+    "static/media/arrow-right.svg": "/test/static/media/arrow-right.618c411d724ff239093f.svg",
+    "static/media/arrowWhite.svg": "/test/static/media/arrowWhite.30791e4d9e2fd6b6a9f5.svg",
+    "main.e8391e9f.css.map": "/test/static/css/main.e8391e9f.css.map",
+    "main.666f6aa3.js.map": "/test/static/js/main.666f6aa3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8391e9f.css",
+    "static/js/main.666f6aa3.js"
+  ]
+}
